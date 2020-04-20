@@ -2,7 +2,7 @@
 This Project presents a solution to deal with traffic congestion in metropolitan cities and presents a central traffic control system which runs on a pretty simple algorithm.
 Our product would include the entire mechanism of detection of congestion and increasing the red light duration of traffic signals in the crossings.
 ### Directions to use this repo:
-   1.Clone the github repo by running the command **git clone https://github.com/saikat021/traffic.git** or by downloading .zip\
+   1.Clone the github repo by running the command **git clone https://github.com/chiradeepdey/traffic.git** or by downloading .zip\
    2.Install all the python dependencies by running **pip install -r requirements.txt**\
    3.Run the command **python main.py**\
    4.When the login page opens, enter name=admin           password=1234\
